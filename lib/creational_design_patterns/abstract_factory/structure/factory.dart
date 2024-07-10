@@ -12,7 +12,7 @@ class ConcreteFactory1 implements AbstractFactory {
   }
 }
 
-class ConcreteFactory2 extends AbstractFactory {
+class ConcreteFactory2 implements AbstractFactory {
   @override
   ConcreteProduct2 createProduct() {
     return ConcreteProduct2();
