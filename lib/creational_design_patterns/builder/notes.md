@@ -1,4 +1,7 @@
 # Builder
+## Structure
+
+![Builder](./imgs/builder.png)
 
 ## Intent
 
