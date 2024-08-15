@@ -1,5 +1,3 @@
-import 'house_builder.dart';
-
 class House {
   String? foundation;
   String? structure;
