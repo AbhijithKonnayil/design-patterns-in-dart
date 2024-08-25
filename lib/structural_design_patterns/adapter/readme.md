@@ -1,4 +1,5 @@
-# Builder
+# Adapter
+
 ## Structure
 
 ![Adapter](./imgs/adapter.png)
